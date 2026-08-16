@@ -1,0 +1,183 @@
+AI Researcher
+
+Stanford Intelligent Systems Laboratory
+
+Jun 2024 - May 2026 · 2 yrs
+
+Stanford, California, United States · On-site
+
+Built LLM-powered RAG framework for AI-driven aviation decision-making, co-authored paper accepted to European Conference on AI 2025, sponsored by Airbus & in-flight testing with TPS. (arXiv:2503.16477). ✈️
+
+Stanford University logo
+AI Researcher
+
+Stanford University
+
+Jun 2024 - May 2026 · 2 yrs
+
+Stanford, California, United States · On-site
+
+Mineral-X lab. Built 3D geological visualization tool in Python, supporting sustainable mineral research.🪨
+
+Reboot Representation logo
+ColorStack x Reboot - GDC Scholar (2x)
+
+Reboot Representation
+
+Mar 2025 - Mar 2026 · 1 yr 1 mo
+
+Stiles Hall logo
+Experience Berkeley Transfer Ambassador Intern
+
+Stiles Hall · Internship
+
+Aug 2025 - Dec 2025 · 5 mos
+
+Berkeley, California, United States
+
+ColorStack logo
+Stacked Up Summit Scholar
+
+ColorStack
+
+Aug 2025 · 1 mo
+
+Snap Inc. logo
+Snap Lens Academy Intern
+
+Snap Inc. · Internship
+
+May 2025 - Aug 2025 · 4 mos
+
+Santa Monica, California, United States · Remote
+
+Snap AR/VR. Built 30+ AR experiences reaching 1M+ views, and presented live demos to Snap's CEO and CTO. 👻
+
+Uber logo
+Software Engineer Fellow
+
+Uber
+
+Dec 2024 - Aug 2025 · 9 mos
+
+Remote
+
+Selected as 1 of 50 from 20000+ applicants, completed advanced DSA work and mentorship from Uber engineers. 🚗
+
+Salesforce logo
+Futureforce Tech Accelerator
+
+Salesforce
+
+Jun 2025 - Jul 2025 · 2 mos
+
+San Francisco, California, United States
+
+Break Through Tech logo
+AI Fellow
+
+Break Through Tech
+
+May 2025 - Jun 2025 · 2 mos
+
+BNY logo
+Sophomore Summit Fellow
+
+BNY
+
+Apr 2025 - Jun 2025 · 3 mos
+
+Liberty Mutual Insurance logo
+Women in Technology Summit
+
+Liberty Mutual Insurance
+
+Feb 2025 - Jun 2025 · 5 mos
+
+MongoDB logo
+Women in CS Summit
+
+MongoDB
+
+Feb 2025 - May 2025 · 4 mos
+
+San Mateo County Community College District logo
+Web Services Intern
+
+San Mateo County Community College District
+
+Oct 2024 - May 2025 · 8 mos
+
+San Mateo, California, United States · On-site
+
+Maintained/updated district websites, built web pages, forms, and debugged issues across 700+ web apps.
+
+College of San Mateo logo
+College of San Mateo
+
+1 yr 2 mos
+
+Secretary (AI Club @ CSM)
+
+May 2024 - May 2025 · 1 yr 1 mo
+
+Vice President (CS Club @ CSM)
+
+Apr 2024 - May 2025 · 1 yr 2 mos
+
+Girls Who Code logo
+Founder and President (GWC @ CSM)
+
+Girls Who Code
+
+Apr 2024 - May 2025 · 1 yr 2 mos
+
+NVIDIA logo
+GTC Scholar
+
+NVIDIA
+
+Mar 2025 · 1 mo
+
+Columbia University logo
+EngAGE Scholar
+
+Columbia University
+
+Mar 2025 · 1 mo
+
+Harvard WECode: Women Engineers Code Conference logo
+Harvard WECode - Tech Fellow
+
+Harvard WECode: Women Engineers Code Conference
+
+Jan 2025 - Feb 2025 · 2 mos
+
+Stanford University School of Engineering logo
+SERIS Scholar
+
+Stanford University School of Engineering
+
+Dec 2024 - Feb 2025 · 3 mos
+
+Kodely logo
+Software Engineer Intern
+
+Kodely
+
+Jun 2024 - Jan 2025 · 8 mos
+
+Remote
+
+Built responsive websites end-to-end, handling UX/UI, front-end, and back-end development.
+
+Tessellations School logo
+Software Engineer Intern
+
+Tessellations School · Internship
+
+Dec 2023 - Apr 2024 · 5 mos
+
+Cupertino, California, United States · On-site
+
+Built a network monitor with Python & Raspberry Pi, and automated school attendance using SikuliX.
